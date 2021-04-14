@@ -6,7 +6,7 @@
     "programmeren": {
       "root": "",
       "sourceRoot": "src",
-      "projectType": "application",
+      "projectType": "aap",
       "prefix": "app",
       "schematics": {},
       "architect": {
